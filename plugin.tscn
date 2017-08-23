@@ -1,6 +1,4 @@
-[gd_scene load_steps=3 format=1]
-
-[ext_resource path="res://addons/plugin/icon.png" type="Texture" id=1]
+[gd_scene load_steps=2 format=1]
 
 [sub_resource type="StyleBoxFlat" id=1]
 
@@ -39,7 +37,6 @@ margin/bottom = 24.0
 toggle_mode = true
 enabled_focus_mode = 2
 shortcut = null
-icon = ExtResource( 1 )
 flat = true
 
 [node name="setting" type="Button" parent="."]

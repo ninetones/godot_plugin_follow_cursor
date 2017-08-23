@@ -1,4 +1,7 @@
 # godot plugin : follow cursor
+Note that this is only for Godot 2.x
+
+![follow_cursor.gif](http://ninetones.com/image/follow_cursor.gif)
 
 ## How to use
 
